@@ -1,0 +1,6 @@
+[wokwi]
+version = 1
+
+[env]
+firmware = "target/riscv32imc-unknown-none-elf/release/http-client-project"
+elf = "target/riscv32imc-unknown-none-elf/release/http-client-project"
